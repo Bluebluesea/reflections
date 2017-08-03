@@ -25,7 +25,7 @@ and what would be harder?
 
     maybe we'd use a share folder, we upload our version each time when we finish it. Github would be a lot easier.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    the author needs to check if the change is valid or if she/he wants the change, so you'd better make changes in a separate branch.
+    to have a separate branch won't break the main feature.
